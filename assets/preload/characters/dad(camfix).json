@@ -129,13 +129,13 @@
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		215,
+		255,
 		0,
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		260,
+		70
 	],
 	"sing_duration": 6.1,
 	"scale": 1
